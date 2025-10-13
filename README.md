@@ -40,6 +40,9 @@ Type a query and press Search.
 
 See matching results with document names and page numbers.
 
-## 📦 Installation
+## 🛠️ Setup Instructions
 ```bash
+git clone https://github.com/<your-username>/PromptMind.git
+cd PromptMind
 pip install -r requirements.txt
+streamlit run app.py
