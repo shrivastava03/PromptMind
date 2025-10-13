@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model and data
+sentence_transformer_models/
+temp/
+*.faiss
+
+# Streamlit cache
+.streamlit/
