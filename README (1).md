@@ -26,7 +26,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ## 🛠️ Tech Stack
 - **Python**
-- **Gradio** for the interactive UI
+- **StreamLit** for the interactive UI
 - **PyMuPDF** for PDF text extraction
 - **Sentence Transformers** for embeddings
 - **FAISS** for vector search
